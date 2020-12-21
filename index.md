@@ -18,7 +18,7 @@ This is a synthetic building operation dataset which includes HVAC, lighting, mi
 
 ### ***Data Extraction and Visualization:***
 
-This [Jupyter notebook](https://github.com/tsbyq/Synthetic_Operation_Data/blob/gh-pages/A%20Synthetic%20Operation%20Dataset.ipynb) contains Python scripts, dependencies, functions to extract and explore the dataset. 
+This [Jupyter notebook](https://github.com/tsbyq/AlphaBuilding-A-Synthetic-Building-Operation-Dataset/blob/gh-pages/A%20Synthetic%20Operation%20Dataset.ipynb) contains Python scripts, dependencies, functions to extract and explore the dataset. 
 
 
 ### ***Reproduce the dataset:***
