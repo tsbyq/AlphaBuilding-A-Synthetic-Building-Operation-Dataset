@@ -2,7 +2,7 @@
 
 ***Prepared by:*** [**Han Li**](https://github.com/tsbyq)
 
-This repository is prepared for a dataset descriptor - A Synthetic Building Operation Dataset submitted to the [Scientif Data](https://www.nature.com/sdata/) journal. It contains:
+This repository is prepared for a dataset descriptor - A Synthetic Building Operation Dataset submitted to the [Scientific Data](https://www.nature.com/sdata/) journal. It contains:
 1. A brief introduction to the dataset.
 2. A Jupyter notebook with Python script to extract and visualize the data.
 3. A steps to re-produce the dataset.
